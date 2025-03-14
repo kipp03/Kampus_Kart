@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7; /* Light gray background */
+    background-color: #f7f7f7; 
 }
 
 header {
-    background-color: #ffc5c5; /* Pastel pink */
+    background-color: #ffc5c5; 
     color: white;
     padding: 1em;
     text-align: center;
@@ -38,7 +38,7 @@ main {
 
 .search-bar {
     margin-bottom: 1em;
-    background-color: #ffe6cc; /* Pastel orange */
+    background-color: #ffe6cc; 
     padding: 0.5em;
     border-radius: 5px;
     display: flex;
@@ -56,7 +56,7 @@ main {
     padding: 0.5em;
     border: none;
     border-radius: 0 5px 5px 0;
-    background-color: #ffd7d7; /* Lighter pastel pink */
+    background-color: #ffd7d7; 
     color: white;
     cursor: pointer;
 }
