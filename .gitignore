@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# MongoDB data files
+data/
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Public uploads (if applicable)
+public/uploads/
+
+# Build files
+build/
+dist/
+
+# Other files to ignore
+package-lock.json
+yarn.lock
+
+# README file
+README.md
