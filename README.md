@@ -26,7 +26,6 @@ https://kipp03.github.io/Campus_Cart
 For Local Development (if needed):
 If you wish to modify or contribute to the project, follow these steps:
 
-Setup Steps:
 Prerequisites:
 1. Install Node.js and npm.
 2. Install PostgreSQL and create a database.
