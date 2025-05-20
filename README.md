@@ -21,7 +21,7 @@ No fluff, just a simple way to trade your stuff.
 How to Access the Project
 💻Live Deployment:
 The Campus Cart website is hosted on GitHub Pages / a web server. You can access it at:
-https://kipp03.github.io/Campus_Cart
+kipp03.github.io/Kampus_Kart/
 
 For Local Development (if needed):
 If you wish to modify or contribute to the project, follow these steps:
