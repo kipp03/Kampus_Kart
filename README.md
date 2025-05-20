@@ -21,8 +21,7 @@ No fluff, just a simple way to trade your stuff.
 How to Access the Project
 💻Live Deployment:
 The Campus Cart website is hosted on GitHub Pages / a web server. You can access it at:
-kipp03.github.io/Kampus_Kart/
-
+https://kipp03.github.io/Kampus_Kart/
 For Local Development (if needed):
 If you wish to modify or contribute to the project, follow these steps:
 
@@ -31,7 +30,7 @@ Prerequisites:
 2. Install PostgreSQL and create a database.
 Setup Steps:
 1. Clone the repository from GitHub:
- git clone https://github.com/kipp03/Campus_Cart
+ git clone https://kipp03.github.io/Kampus_Kart/
 2. Navigate to the project directory:
  cd campus-cart
 3. Install dependencies:
